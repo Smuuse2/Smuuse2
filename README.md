@@ -1,4 +1,4 @@
-<h1 align="center">Hi Saed Muse Jama </h1>
+<h1 align="center">Hi 🙌 Saed Muse Jama </h1>
 
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Smuuse2&label=Profile%20views&color=0e75b6&style=flat" alt="Smuuse2" /> </p>
